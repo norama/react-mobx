@@ -1,3 +1,5 @@
+Sample app: https://auth0.com/blog/managing-the-state-of-react-apps-with-mobx/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
